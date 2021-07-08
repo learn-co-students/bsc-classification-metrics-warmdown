@@ -1,0 +1,1 @@
+{"questions": {"<br>": {"options": [], "value": 2}, "*Please round to the second decimal place*": {"options": [], "value": 2}, "*Please round to the **fourth** decimal place*": {"options": [], "value": 0.0003}, "": {"options": ["Recall", "Precision", "Accuracy", "F-1"], "value": "Precision"}}}
